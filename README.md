@@ -22,4 +22,4 @@ In Week 2, we embarked on a thrilling data analysis journey with Pizza Runner, a
 **Acknowledgment:**
 Special thanks to Danny Ma for crafting these captivating challenges, enabling us to augment our SQL prowess and uncovering valuable insights through data analysis. The #8WeekSQLChallenge has been an exhilarating expedition of learning!
 
-Through this SQL challenge, I garnered expertise in a myriad of SQL concepts, including group by, joins, with clause, subquery, and many more. I then concluded the analysis to present these fascinating insights
+Through this SQL challenge, I garnered expertise in a myriad of SQL concepts, including group by, joins, with clause, subquery, and many more. I then concluded the analysis to present these fascinating insights.
