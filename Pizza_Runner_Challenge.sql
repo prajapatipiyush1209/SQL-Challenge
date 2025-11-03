@@ -2,7 +2,7 @@ use dannys_diner;
 1.How many pizzas were ordered?;
 select count(*) as total_pizza_ordered 
 from customer_orders;
-
+--demo
 
 2.How many unique customer orders were made?;
 select count(distinct(order_id)) as order_made_by_unique_customer
